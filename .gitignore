@@ -1,0 +1,9 @@
+target/
+out/
+.idea/
+*.iml
+*.class
+logs/
+.env
+users.txt
+history/
